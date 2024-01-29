@@ -41,12 +41,12 @@ const CONFIG = {
           link: 'https://store.steampowered.com/app/2200470/Ok_I_Pull_Up/',
         },
         {
-          title: 'Project Name',
+          title: 'Online Identity in VRChat',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'My published bachelors thesis, 30 pages.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://www.theseus.fi/bitstream/handle/10024/812898/Jarvela_Jerry.pdf.jpg?sequence=4&isAllowed=y',
+          link: 'https://www.theseus.fi/handle/10024/812898',
         },
       ],
     },
