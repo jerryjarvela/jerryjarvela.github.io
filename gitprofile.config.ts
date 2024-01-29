@@ -33,12 +33,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Ok I Pull Up',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Ok I Pull Up is a rage platformer, in which you, a capybara, ascend a tree tower only by jumping. This punishing, yet fair game requires extreme patience to complete.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://cdn.akamai.steamstatic.com/steam/apps/2200470/header.jpg?t=1670846748',
+          link: 'https://store.steampowered.com/app/2200470/Ok_I_Pull_Up/',
         },
         {
           title: 'Project Name',
