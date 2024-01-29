@@ -76,7 +76,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/jerryjarvela/jerryjarvela.github.io/blob/main/JerryJarvelaCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C#',
